@@ -1,1 +1,3 @@
-"# BSOA201_JAREKMELGAR_Act2." 
+# What did you learn about how WordPress stores its files and data? 
+# Which part was more complex: Handling files or managing the database? 
+# Why is version control useful for a WordPress project in an office setting?
